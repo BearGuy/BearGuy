@@ -4,7 +4,7 @@ I'm currently the CTO of [Storied](https://storiedhr.com), the People's Analytic
 
 I share my thoughts on all sorts of stuff on [The Peterkins Podcast](https://open.spotify.com/show/6DthLM7d7HmH9SK6QTD6yT?si=jHx6_6yrRtK1DfLjPa9ilg)
 
-For more information on me, check me out at [peterkins.dev](peterkins.dev)
+For more information on me, check me out at [https://peterkins.dev](peterkins.dev)
 
 <!--
 **BearGuy/BearGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
