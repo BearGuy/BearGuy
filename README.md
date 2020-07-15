@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Stephen Peterkins
 
-I'm currently the CTO of [Storied](https://storiedhr.com), a People's Analytics Platform.
+I'm currently the CTO of [Storied](https://storiedhr.com), the People's Analytics Platform.
 
 I share my thoughts on all sorts of stuff on [The Peterkins Podcast](https://open.spotify.com/show/6DthLM7d7HmH9SK6QTD6yT?si=jHx6_6yrRtK1DfLjPa9ilg)
 
