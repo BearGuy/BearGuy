@@ -2,7 +2,7 @@
 
 I'm a backend developer who creates apps primarily with Typescript, Node.js
 
-You can follow me here https://twitter.com/undyingw1ill
+You can follow me here https://twitter.com/undyingw1ll
 
 <!--
 **BearGuy/BearGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
