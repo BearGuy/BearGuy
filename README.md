@@ -1,10 +1,8 @@
-### Hi there 👋 I'm Stephen Peterkins
+### Hi there 👋
 
-I'm a software developer who creates apps primarily Javascript, Typescript, Node.js
+I'm a backend developer who creates apps primarily with Typescript, Node.js
 
-I share my thoughts on all sorts of stuff on [The Peterkins Podcast](https://open.spotify.com/show/6DthLM7d7HmH9SK6QTD6yT?si=jHx6_6yrRtK1DfLjPa9ilg)
-
-For more information on me, check me out at [peterkins.dev](https://peterkins.dev)
+You can follow me here https://twitter.com/undyingw1ill
 
 <!--
 **BearGuy/BearGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
